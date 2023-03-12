@@ -15,4 +15,8 @@ class LibraryTest {
     @Test void returnTrueTest() {
     	assertTrue(true);
     }
+    
+    @Test void returnFalseTest() {
+    	assertTrue(false);
+    }
 }
